@@ -1,0 +1,21 @@
+{
+  "name": "parcel-bug-typeof-module",
+  "version": "1.0.0",
+  "description": "",
+  "browser": "build/index.html",
+  "targets": {
+    "browser": {
+      "minify": false,
+      "sourceMap": false
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.119"
+  },
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
