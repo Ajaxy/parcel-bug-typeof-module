@@ -11,7 +11,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "parcel": "^2.0.0-nightly.119"
+    "parcel": "^2.8.2"
   },
   "scripts": {
     "build": "parcel build index.html"
